@@ -1,0 +1,12 @@
+{
+    "ID":"dd6e77b553174f85bce06ecdc18aa8ce",
+    "ActionKeyword":"qt",
+    "Name":"RandomQuote",
+    "Description":"Get a random quote",
+    "Author":"DBremen",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/DBremen/Wox.Plugins.RandomQuote",
+    "IcoPath":"icons\\quote.png",
+    "ExecuteFileName":"main.py"
+}
